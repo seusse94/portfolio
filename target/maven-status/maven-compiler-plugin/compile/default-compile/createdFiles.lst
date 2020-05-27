@@ -1,0 +1,7 @@
+com/zemoga/portfolio/repository/PortfolioRepository.class
+com/zemoga/portfolio/PortfolioApplication.class
+com/zemoga/portfolio/builder/TweetBuilder.class
+com/zemoga/portfolio/builder/AbstractBuilder.class
+com/zemoga/portfolio/dto/TweetDto.class
+com/zemoga/portfolio/service/tweet/TweetService.class
+com/zemoga/portfolio/dto/TwitterProfileDto.class
