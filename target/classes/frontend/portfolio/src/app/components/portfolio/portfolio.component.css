@@ -10,7 +10,9 @@ body {
 h3 {
   line-height: 30px;
 }
-
+.back-btn a span{
+  color:#ffc10f;
+}
 /* ==============
   Panels
 ===================*/
@@ -35,6 +37,7 @@ h3 {
 
 .panel .panel-body .tweet-image img {
   height: 39px;
+  width: 39px;
 }
 
 .panel .panel-body p {

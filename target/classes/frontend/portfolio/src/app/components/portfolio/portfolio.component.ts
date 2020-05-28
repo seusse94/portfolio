@@ -26,5 +26,9 @@ export class PortfolioComponent implements OnInit {
   ngOnInit(): void {
 
   }
+  public back(){
+    this.router.navigate(['']);
+
+  }
 
 }
